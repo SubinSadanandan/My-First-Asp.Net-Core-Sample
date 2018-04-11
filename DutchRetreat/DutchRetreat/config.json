@@ -1,0 +1,10 @@
+﻿{
+  "ConnectionStrings": {
+    "DutchConnectionString": "server=(localdb)\\MSSQLLocalDB;Database=DutchTreatDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Tokens": {
+    "Key": "asdfsadfasdfasdf",
+    "Issuer": "localhost",
+    "Audience": "users"
+  }
+}

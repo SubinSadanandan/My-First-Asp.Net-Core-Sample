@@ -1,0 +1,11 @@
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\bin\Debug\netcoreapp2.0\DutchRetreat.deps.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\bin\Debug\netcoreapp2.0\DutchRetreat.runtimeconfig.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\bin\Debug\netcoreapp2.0\DutchRetreat.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\bin\Debug\netcoreapp2.0\DutchRetreat.dll
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\bin\Debug\netcoreapp2.0\DutchRetreat.pdb
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\obj\Debug\netcoreapp2.0\DutchRetreat.csprojResolveAssemblyReference.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\obj\Debug\netcoreapp2.0\DutchRetreat.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\obj\Debug\netcoreapp2.0\DutchRetreat.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\obj\Debug\netcoreapp2.0\DutchRetreat.AssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\obj\Debug\netcoreapp2.0\DutchRetreat.dll
+D:\Subin\Tech\Asp.Net Core\pluralsight\Shawn-Wildermuth\DutchRetreat\DutchRetreat\obj\Debug\netcoreapp2.0\DutchRetreat.pdb
